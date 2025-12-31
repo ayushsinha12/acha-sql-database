@@ -1,4 +1,4 @@
-# ACHA(American Collegiate Hockey Association) Database
+# American Collegiate Hockey Association(ACHA) Database
 
 ## Project Overview
 This project implements a normalized relational database for the American Collegiate Hockey Association(ACHA), a collegiate club hockey league, to centralize information that is often fragmented across teams and leagues. The database supports league operations and analytics by storing divisions, leagues, programs, teams, seasons, games, rosters, and player statistics in a queryable MySQL schema. In addition to standard relational design, the project includes stored procedures and triggers to automate common administrative workflows and enforce data integrity.
