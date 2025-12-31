@@ -45,3 +45,19 @@ This app is intended to provide the ACHA with a similar level of data accessibil
 compared to NCAA and professional hockey, despite the organization's unique challenges (more
 players, less funding, more schools, etc.). By creating a queryable database and augmenting it with stored procedures and triggers, non-administrators can find information that is pertinent to
 them.
+
+## Database Design
+The database structure was created in MySQL Workbench, with a focus on:
+1. Designing normalized tables with appropriate relationships
+2. Establishing entity-relationship models
+3. Creating stored procedures and triggers to automate and simplify common application operations such as eligibility notifications and season/game rollover
+4. Developing a data model that allows for future scaling and feature expansion
+
+Below is the ER diagram that shows the entire database design:
+<div align="center">
+  <img src="bloggingFeed.png" width="666" height="383">
+</div>
+<p align="center">
+  Above is an example home page.
+</p>
+
