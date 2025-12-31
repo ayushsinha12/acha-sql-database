@@ -136,3 +136,144 @@ holds years of eligibility. If any of these checks fail, an error is generated, 
 game_stats is stopped.
 
 ## Query Outputs
+Outputs of the queries from `ACHA_db_queries.sql` are shown below:
+
+<div align="center">
+  <img src="picturesReadme/query1.png" width="900">
+</div>
+<p align="center">
+  Query 1
+</p>
+
+<div align="center">
+  <img src="picturesReadme/output1.png" width="900">
+</div>
+<p align="center">
+  Output from query 1
+</p>
+
+<div align="center">
+  <img src="picturesReadme/query2.png" width="900">
+</div>
+<p align="center">
+  Query 2
+</p>
+
+<div align="center">
+  <img src="picturesReadme/output2.png" width="900">
+</div>
+<p align="center">
+  Output from query 2
+</p>
+
+<div align="center">
+  <img src="picturesReadme/query3.png" width="900">
+</div>
+<p align="center">
+  Query 3
+</p>
+
+<div align="center">
+  <img src="picturesReadme/output3.png" width="900">
+</div>
+<p align="center">
+  Output from query 3
+</p>
+
+<div align="center">
+  <img src="picturesReadme/query4.png" width="900">
+</div>
+<p align="center">
+  Query 4
+</p>
+
+<div align="center">
+  <img src="picturesReadme/output4.png" width="900">
+</div>
+<p align="center">
+  Output from query 4
+</p>
+
+<div align="center">
+  <img src="picturesReadme/query5.png" width="900">
+</div>
+<p align="center">
+  Query 5
+</p>
+
+<div align="center">
+  <img src="picturesReadme/output5.png" width="900">
+</div>
+<p align="center">
+  Output from query 5
+</p>
+
+<div align="center">
+  <img src="picturesReadme/query6.png" width="900">
+</div>
+<p align="center">
+  Query 6
+</p>
+
+<div align="center">
+  <img src="picturesReadme/output6.png" width="900">
+</div>
+<p align="center">
+  Output from query 6
+</p>
+
+<div align="center">
+  <img src="picturesReadme/query7.png" width="900">
+</div>
+<p align="center">
+  Query 7
+</p>
+
+<div align="center">
+  <img src="picturesReadme/output7.png" width="900">
+</div>
+<p align="center">
+  Output from query 7
+</p>
+
+<div align="center">
+  <img src="picturesReadme/query8.png" width="900">
+</div>
+<p align="center">
+  Query 8
+</p>
+
+<div align="center">
+  <img src="picturesReadme/output8.png" width="900">
+</div>
+<p align="center">
+  Output for query 8
+</p>
+
+<div align="center">
+  <img src="picturesReadme/query9.png" width="900">
+</div>
+<p align="center">
+  Query 9
+</p>
+
+<div align="center">
+  <img src="picturesReadme/output9.png" width="900">
+</div>
+<p align="center">
+  Output for query 9
+</p>
+
+<div align="center">
+  <img src="picturesReadme/query10.png" width="900">
+</div>
+<p align="center">
+  Query 10
+</p>
+
+<div align="center">
+  <img src="picturesReadme/output10.png" width="900">
+</div>
+<p align="center">
+  Output for query 10
+</p>
